@@ -1,7 +1,9 @@
-Assalamu'alaikum, Kak 🙏
+Assalamu'alaikum, mba ari mas yufi 🙏
 
 Berikut laporan pekerjaan SAE Aqiqah yang telah selesai kami kerjakan. Semua tersedia dalam 1 halaman laporan lengkap yang bisa dibuka kapan saja.
-
+(terima kasih sudah menunggu proses yang begitu panjang, mulai coding ribuan baris, prompting ai dan bikin sistem ini seperti sistem pada aplikasi yang bisa digunakan gratis selamanya)
+Semoga alat ini membantu di masa depan,saya ini bisa jadi bahan belajar yang bagus juga.
+Seluruh akun sosial media sudah saya konekkan ke hp mba ari, jadi kalo mau ganti password tinggal lupa passowrd, dan ganti seluruh password sosmednya.
 ---
 
 *1. Brand Strategy SAE Aqiqah* ✅
@@ -29,4 +31,4 @@ Tekan tombol download, langsung siap cetak.
 ---
 
 Seluruh laporan, panduan, dan tombol akses tersedia di halaman laporan kami 🔗
-Terima kasih atas kepercayaannya, Kak! 🙏
+Terima kasih atas kepercayaannya! 🙏
